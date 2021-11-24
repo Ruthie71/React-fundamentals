@@ -1,6 +1,5 @@
 # Concepts
 
-[x] Class-based components
 [x] Functional components
 [x] Rendering components
 [x] Props components
@@ -8,4 +7,4 @@
 [x] State (with hooks)
 [x] Controlled/Uncontrolled components (with hooks)
 [x] Effects (with hooks)
-[] API requestes within a React component
+[x] API requestes within a React component
